@@ -5,7 +5,7 @@ Genera un listado de todos los archivos de un directorio y lo guarda en un archi
 y requiere un monton de mejoras
 
 Consideraciones
-.................
+================
 
 * Las opciones generate zip y visible icon no estas implementadas.
 * La opcion include subdirectorys , hace un recorrido recursivo de cada subdirectorio y lista sus archivos , es un listado completo.
